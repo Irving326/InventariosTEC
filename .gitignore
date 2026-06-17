@@ -1,1 +1,20 @@
-/build/
+# Archivos temporales de compilación de Java
+*.class
+**/target/
+**/bin/
+**/build/
+
+# Configuraciones locales de Eclipse (se recrean solas al importar)
+.metadata/
+.settings/
+.recommenders/
+.classpath
+.project
+
+# Archivos del Servidor Tomcat local
+Servers/
+.tomcatplugin
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db/build/
