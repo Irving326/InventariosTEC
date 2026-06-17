@@ -4,7 +4,7 @@
 **/bin/
 **/build/
 
-# Configuraciones locales de Eclipse (se recrean solas al importar)
+# Configuraciones locales de Eclipse 
 .metadata/
 .settings/
 .recommenders/
