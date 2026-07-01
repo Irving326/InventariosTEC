@@ -18,13 +18,13 @@
         <hr>
         <ul class="nav nav-pills flex-column mb-auto gap-2">
             <li>
-                <a href="ProductoServlet" class="nav-link active d-flex align-items-center">
+                <a href="ProductoServlet" class="nav-link d-flex align-items-center">
                     <span class="material-icons me-3">add_box</span>
                     Gestión de Artículos
                 </a>
             </li>
             <li>
-			    <a href="VentaServlet" class="nav-link d-flex align-items-center">
+			    <a href="VentaServlet" class="nav-link active d-flex align-items-center">
 			        <span class="material-icons me-3">point_of_sale</span> Salidas / Ventas
 			    </a>
 			</li>

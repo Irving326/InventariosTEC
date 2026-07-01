@@ -140,7 +140,6 @@
                                         <span class="material-icons display-4 d-block mb-2">inventory_2</span>
                                         No se encontraron artículos registrados en el catálogo.
                                     </td>
-                                end text-muted">
                             </c:if>
                         </tbody>
                     </table>

@@ -8,7 +8,7 @@ public class DBConnection {
     private static Connection connection = null;
     
     // Datos de conexión 
-    private static final String URL = "jdbc:postgresql://localhost:5432/InventorySystem";
+    private static final String URL = "jdbc:postgresql://localhost:5432/inventariostec";
     private static final String USER = "postgres";
     private static final String PASS = "admin";
 

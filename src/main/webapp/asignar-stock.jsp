@@ -57,7 +57,7 @@
                 </a>
             </li>
             <li>
-                <a href="StockServlet" class="nav-link d-flex align-items-center">
+                <a href="StockServlet" class="nav-link active d-flex align-items-center">
                     <span class="material-icons me-3">inventory_2</span>
                     Asignar Stock
                 </a>
